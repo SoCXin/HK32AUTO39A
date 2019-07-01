@@ -1,2 +1,4 @@
-# D18
-D18状态感知
+﻿# [libraries](https://github.com/OS-Q)
+
+[libraries](https://github.com/OS-Q/libraries) 通用库组件管理
+
