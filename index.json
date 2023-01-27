@@ -1,0 +1,36 @@
+{
+    "type":"MCU",
+    "name":"HK32AUTO39A",
+    "title": "HK HK32AUTO39A MCU",
+    "description":"HK autocar MCU",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-M3",
+        "Fmax":120,
+        "DMIPS": 160,
+        "CoreMark": 285
+    },
+    "manufacturer": {
+        "vendor":"HK",
+        "homepage":"http://www.hsxp-hk.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/HK32AUTO39A.git"
+    },
+    "version":"1.0.0",
+    "series":["HK32AUTO39A"],
+    "package":["TSSOP20","QFN20"],
+    "peripheral": ["ADC","UART","SPI","IIC"],
+    "ESD": {
+        "HBM": 4000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-M3",
+        "HK",
+        "ADC","I2C","RTC","SPI","UART",
+        "5.5V","2.7V"
+    ]
+}
+
