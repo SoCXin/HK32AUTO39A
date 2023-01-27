@@ -20,7 +20,7 @@
     },
     "version":"1.0.0",
     "series":["HK32AUTO39A"],
-    "package":["TSSOP20","QFN20"],
+    "package":["LQFP100","LQFP64"],
     "peripheral": ["ADC","UART","SPI","IIC"],
     "ESD": {
         "HBM": 4000,
@@ -30,7 +30,7 @@
         "Cortex-M3",
         "HK",
         "ADC","I2C","RTC","SPI","UART",
-        "5.5V","2.7V"
+        "3.6V","1.8V"
     ]
 }
 

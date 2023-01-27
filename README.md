@@ -5,7 +5,7 @@
 
 ## [简介](https://github.com/SoCXin/HK32AUTO39A/wiki)
 
-[HK32AUTO39A](https://www.hsxp-hk.com/product/67/)
+[HK32AUTO39A](https://www.hsxp-hk.com/product/84/)
 
 ### 关键参数
 
