@@ -29,7 +29,7 @@
     "keywords": [
         "Cortex-M3",
         "HK",
-        "ADC","I2C","RTC","SPI","UART",
+        "ISO26262","ADC","I2C","RTC","SPI","UART",
         "3.6V","1.8V"
     ]
 }

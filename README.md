@@ -34,6 +34,12 @@
 
 ## [选型建议](https://github.com/SoCXin/HK32AUTO39A)
 
-[HK32AUTO39A](https://item.szlcsc.com/3505341.html)适用于汽车电子应用。
+[HK32AUTO39A](https://item.szlcsc.com/3505341.html)是车规级MCU,于2018年开始立项布局，符合[ISO26262](https://baike.baidu.com/item/ISO26262/2579394?fr=aladdin)标准
+
+相似定位的产品还包括：
+* [AC7815](https://github.com/SoCXin/AC7815)
+* [GD32A503](https://github.com/SoCXin/GD32A503)
+* [KF32A141](https://github.com/SoCXin/KF32A141)
+
 
 ## [www.SoC.xin](http://www.SoC.Xin)
